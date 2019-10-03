@@ -255,6 +255,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [tidebox](https://github.com/DoubleDensity/tidebox) - TidalCycles live coding environment inside a Docker container.
 - [Troop](https://github.com/Qirky/Troop) - Real-time collaborative live coding with FoxDot.
 - [VEDA](https://veda.gl/) - Real-time GLSL editor for Atom.
+- [WaveBricks](https://sourceforge.net/projects/wavebricks/) - A digital audiovisual workstation for creating animated and composed instruments that correspond to 2 and 3 dimensional shapes.
 - [WavTexture](https://github.com/keijiro/WavTexture) - A Unity example showing how to bake a waveform of an audio clip into a texture and use it in a shader.
 - [ZeroBrane Studio](http://studio.zerobrane.com/) - Editor that allows live coding using Lua language.
 
